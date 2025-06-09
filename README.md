@@ -1,6 +1,6 @@
 # DQN - Swipe Block Game
 
-본 프로젝트는 강화학습(Deep Reinforcement Learning) 알고리즘인 \*\*DQN(Deep Q-Network)\*\*을 이용하여, Pygame으로 제작한 "스와이프 벽돌깨기" 게임을 학습하는 환경을 구축하고 에이전트가 효율적인 전략을 학습하도록 구성한 프로젝트입니다.
+본 프로젝트는 강화학습(Deep Reinforcement Learning) 알고리즘인 DQN(Deep Q-Network)을 이용하여, Pygame으로 제작한 "스와이프 벽돌깨기" 게임을 학습하는 환경을 구축하고 에이전트가 효율적인 전략을 학습하도록 구성한 프로젝트입니다.
 
 ## 개발 환경
 
